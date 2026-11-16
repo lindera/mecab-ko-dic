@@ -1,0 +1,29 @@
+===========================================================================
+mecab-ko-dic for Lindera
+===========================================================================
+
+This repository includes the files of
+
+  mecab-ko-dic-2.1.1-20180720
+
+which can be obtained from
+
+  https://bitbucket.org/eunjeon/mecab-ko-dic/downloads/mecab-ko-dic-2.1.1-20180720.tar.gz
+
+The files are unmodified. README.md gives their sources and checksums.
+
+===========================================================================
+mecab-ko-dic-2.1.1-20180720 Notice
+===========================================================================
+
+The release has no NOTICE file. This section is Lindera's attribution.
+
+mecab-ko-dic
+https://bitbucket.org/eunjeon/mecab-ko-dic
+
+Authors: Yongwoon Lee and Yungho Yu (see AUTHORS)
+
+Licensed under the Apache License, Version 2.0 (see COPYING).
+
+The training corpus and part of the lexicon of mecab-ko-dic come from the
+results of the 21st Century Sejong Project.
